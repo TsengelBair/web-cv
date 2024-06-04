@@ -10,7 +10,7 @@ const Main = () => {
           </h1>
           <h2 className="main_inner_subtitle">I’m a math and chess teacher</h2>
           <a
-            href="https://drive.google.com/file/d/1YaRFNaD0EcG-uH5p0SV5IbapcMedPGnK/view?usp=sharing"
+            href="https://drive.google.com/file/d/1ZdsI0I0EzJaXxIGdoKz8hZnQFTg0DjIo/view?usp=sharing"
             download
           >
             <button className="main_btn">Download CV</button>
